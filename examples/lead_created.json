@@ -1,0 +1,11 @@
+{
+  "event": "lead_created",
+  "contact": {
+    "contact_id": "demo-001",
+    "name": "Sample Customer",
+    "email": "sample@example.org",
+    "phone": "+15550100000",
+    "service": "Consultation",
+    "opted_out": false
+  }
+}
