@@ -1,3 +1,7 @@
+
+![GoHighLevel Tests](https://github.com/hamadliaqat682/gohighlevel-crm-automation/actions/workflows/tests.yml/badge.svg)
+
+
 # GoHighLevel CRM & Sales Automation — Demo
 
 A portfolio-grade **offline demonstration** of a service-business lead automation pipeline. It illustrates lead intake, input validation, pipeline updates, appointment handling, and consent-aware follow-up planning.
